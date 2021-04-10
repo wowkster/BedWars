@@ -1,0 +1,11 @@
+name: BedWars
+author: Adrian Wowk
+version: 1.0
+api-version: 1.14
+main: com.adrianwowk.bedwarsclone.BedWars
+commands:
+  bedwars:
+  map-reset:
+  lobby:
+  map-save:
+  map-bedwars:
